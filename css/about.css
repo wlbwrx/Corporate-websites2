@@ -1,0 +1,146 @@
+/**知识产权**/
+.ipr-tit{
+	font-size: 22px;
+	font-weight:500;
+}
+.main-So ul li dl{
+	width: 92%;
+}
+.main-So ul li dl dt{
+	background: #edebeb;
+	height:294px;
+	border:1px solid #dcdcdc;
+}
+.main-So ul li dl dd{
+	text-align: center;
+	height: 52px;
+	line-height: 52px;
+	font-size: 14px;
+}
+/**公司介绍**/
+.main-info{
+	padding-left:54px;
+}
+.main-bot{
+	padding-bottom: 100px;
+}
+
+.mgtop30{
+	margin-top: 30px;
+}
+.mgtop-36{
+	margin-top: -36px;
+}
+.compay-p-img img{
+	max-width: 100%;
+	margin:30px 0 10px 0;
+	padding-bottom: 10px;
+}
+.hrsty{
+	border-style: dashed;
+	border-color: #3c3c3c;
+	margin:20px 0;
+}
+/**招贤纳士**/
+.join-conent{
+	position: relative;
+    display: table;
+    width: 100%;
+}
+.main-joinUs,.joinUS-list,.joinUS-empty{
+	display: table-cell;
+}
+
+.main-joinUs{
+	width:80%;
+}
+.joinUS-list{
+	width:16%;
+	height: 100%;
+}
+.joinUS-empty{
+	width:4%;
+}
+.search-con{
+	width: ;
+}
+.search-box{
+	width: ;
+	height: 34px;
+	background: #dfdfdf ;
+	padding:12px 32px 12px 56px;
+}
+.search-tit{
+	font-size: 18px;
+	font-weight: bold;
+	padding-right:56px;
+	margin-top: 5px;
+}
+
+.search-btn{
+	width: 117px;
+	height: 34px;
+	line-height: 34px;
+	background: #2a2a36;
+	font-size: 14px;
+	color: #fff;
+	border:none;
+	text-align: center;
+}
+.join-us-box{
+	margin:40px 0 0 0;
+}
+.join-state{
+	font-size: 14px;
+}
+.mgtop18{
+	margin-top: 18px;
+}
+.colorgree{
+	color: #8bb314;
+}
+.fontwgt{
+	font-weight: 600;
+}
+.hrsilsty{
+	margin: 18px 0;
+}
+.mgrgt20{
+	margin-right: 9%;
+}
+.join-h4{
+	font-size: 16px;
+	background: #2a2a36;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+	color: #fff;
+}
+.joinul-list{
+	height: 31rem;
+	padding:30px 24px 30px;
+	border:1px solid #dcdcdc;
+}
+.joinul-list li{
+	font-size: 14px;
+	height: 36px;
+	line-height: 36px;
+}
+.joinul-list li a{
+	color: #3c3c3c;
+}
+.joinul-list li a:hover{
+	color: #8fc31f;
+}
+.joinUs-btn{
+	text-align: center;
+	margin: 50px 0 0 0;
+}
+.joinUs-btn a{
+	font-size: 14px;
+	background: #8fc31f;
+	color: #fff;
+	padding: 6px 20px;
+}
+
+
